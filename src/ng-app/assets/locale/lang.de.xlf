@@ -3739,7 +3739,7 @@ TUXEDO Tomte 的作用是为 TUXEDO 笔记本电脑自动安装修复程序，�
       </trans-unit>
       <trans-unit id="stateLabelMains" datatype="html">
         <source>Mains</source>
-        <target state="translated">交流电</target>
+        <target state="translated">电源</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/ng-app/app/state.service.ts</context>
           <context context-type="linenumber">71</context>
@@ -3747,7 +3747,7 @@ TUXEDO Tomte 的作用是为 TUXEDO 笔记本电脑自动安装修复程序，�
       </trans-unit>
       <trans-unit id="stateTooltipMains" datatype="html">
         <source>Mains power adaptor</source>
-        <target state="translated">交流电电源适配器</target>
+        <target state="translated">电源适配器</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/ng-app/app/state.service.ts</context>
           <context context-type="linenumber">72</context>
