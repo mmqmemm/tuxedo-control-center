@@ -59,7 +59,8 @@ tuxedo-control-center
    ```
    
     **Note:** Build deb package after ***npm install***
-    then,you will find tuxedo-control-center deb package in ***dist/packages/***.
+   
+   After that, you will find tuxedo-control-center deb package in ***dist/packages/***.
     
 ### NPM scripts 
 `npm run <script-name>`
