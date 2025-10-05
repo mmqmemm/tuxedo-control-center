@@ -53,10 +53,11 @@ tuxedo-control-center
    4. Start service `systemctl start tccd`. (And enable for autostart `systemctl enable tccd tccd-sleep`)
 
 4. Build deb package
-       ```
+   ```
     export NODE_OPTIONS=--openssl-legacy-provider
     npm run pack-prod -- deb
-    ```
+   ```
+   
     **Note:** Build deb package after ***npm install***
     then,you will find tuxedo-control-center deb package in ***dist/packages/***.
     
